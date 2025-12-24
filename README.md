@@ -5,7 +5,7 @@
 - 基于Python数学数据模拟(sim)
 
 #### 作者
-- 成昊天
+- dboycht
 
 #### 联系方式
 - Email:dboycht@qq.com
